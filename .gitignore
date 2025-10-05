@@ -1,0 +1,21 @@
+# ===== ARQUIVOS DO SISTEMA =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ===== ONEDRIVE E WINDOWS =====
+OneDrive/
+AppData/
+*.lnk
+*.tmp
+*.log
+
+# ===== VSCODE / IDE =====
+.vscode/
+.idea/
+
+# ===== BUILD OU CACHE (se tiver futuramente) =====
+node_modules/
+dist/
+build/
