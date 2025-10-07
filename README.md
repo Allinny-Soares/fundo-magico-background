@@ -1,6 +1,6 @@
 # ✨ Fundo Mágico Interativo
 
-Um site interativo que muda o fundo com efeitos mágicos e animações personalizadas, integrando **n8n** e **Gemini** para automações inteligentes e criativas. 🌈💫  
+Um site interativo que muda o fundo com efeitos mágicos e animações personalizadas, integrando **n8n** e **Gemini** para automações inteligentes e criativas. 
 Desenvolvido com **HTML**, **CSS**, **JavaScript**, **Node.js**, **n8n** e **Gemini AI**.
 
 ---
