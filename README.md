@@ -7,7 +7,7 @@ Desenvolvido com **HTML**, **CSS**, **JavaScript**, **Node.js**, **n8n** e **Gem
 
 ## 🚀 Demonstração
 
-![Preview do Projeto](https://github.com/Allinny-Soares/fundo-magico-background/blob/main/assets/preview.gif)
+![Preview do Projeto](https://github.com/Allinny-Soares/fundo-magico-background/blob/main/assets/preview.png)
 
 ---
 
