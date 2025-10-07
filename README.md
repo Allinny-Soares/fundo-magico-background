@@ -7,7 +7,6 @@ Desenvolvido com **HTML**, **CSS**, **JavaScript**, **Node.js**, **n8n** e **Gem
 
 ## 🚀 Demonstração
 
-![Preview do Projeto]./assets/preview.png
 
 ---
 
